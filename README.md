@@ -5,7 +5,7 @@ A multi-agent feasibility engine that analyzes land development potential in Mal
 ## 🚀 Overview
 This system utilizes a "Crew" of AI agents to perform urban research and financial modeling. It features an interactive map interface with satellite view capabilities to help developers visualize the 5km demographic catchment area.
 
-[Image of a multi-agent AI system architecture showing Researcher and Strategist agents collaborating]
+
 
 ## 🛠️ Tech Stack
 - **Framework:** CrewAI (Agentic Orchestration)
@@ -20,7 +20,7 @@ The system employs a sequential process where data flows from research to strate
 1. **Market Specialist:** Analyzes the location for commercial clusters and service gaps.
 2. **Lead Strategist:** Synthesizes land size, budget, and market data to propose a specific building type and ROI logic.
 
-[Image of a sequential workflow diagram for AI agents passing data from research to strategy]
+
 
 ## 📥 Installation & Setup
 
