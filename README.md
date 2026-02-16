@@ -48,12 +48,6 @@ Financial Safety Net: Handles local LLM output errors to ensure the UI stays sta
 
 PDF Export: Generate a professional feasibility report for stakeholders.
 
-📝 Future Roadmap
-[ ] Integration of Deep Learning Object Detection for tree crown analysis (PhD Research).
-
-[ ] Real-time web search for latest population growth data.
-
-[ ] Multi-plot comparison tools.
 
 🎓 Author
 Ahmad Zhafri PhD Researcher | Lecturer at UniKL MIIT
