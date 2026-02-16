@@ -1,0 +1,7 @@
+crewai
+langchain_community
+streamlit
+streamlit-folium
+geopy
+fpdf2
+pydantic
