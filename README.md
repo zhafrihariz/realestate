@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-🗺️ Key Features
+### 🗺️ Key Features
 Interactive Map: Click-to-select site coordinates with a 5km radius circle.
 
 Satellite Toggle: Switch between street maps and satellite imagery to inspect terrain.
