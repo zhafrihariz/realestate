@@ -28,17 +28,17 @@ The system employs a sequential process where data flows from research to strate
 Ensure you have [Ollama](https://ollama.com/) installed and the model downloaded:
 ```bash
 ollama run llama3.2:1b
-
+```
 ### 2.Clone this repo
 
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Run the Dashboard
 ```bash
 streamlit run app.py
-
+```
 🗺️ Key Features
 Interactive Map: Click-to-select site coordinates with a 5km radius circle.
 
